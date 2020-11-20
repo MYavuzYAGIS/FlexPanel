@@ -24,6 +24,6 @@ Practiced JS dom manipulation
 
 
 
-# After
+# On click
 
 ![after](img/after.png)
